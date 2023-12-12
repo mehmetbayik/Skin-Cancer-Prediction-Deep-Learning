@@ -7,7 +7,7 @@ Assignment and project implementations done for CS464 course, Bilkent University
 Probability Review and Naive Bayes
 
 ### HW2
-PCA, Linear Regression, Logistic Regression, and SVM.
+PCA, Multinomial Logistic Regression.
 
 ### HW3
 Convolutional Neural Networks using PyTorch.
