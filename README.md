@@ -4,10 +4,10 @@ Assignment and project implementations done for CS464 course, Bilkent University
 ## Coverage of the repository
 
 ### HW1
-Probability Review and Naive Bayes
+Probability Review and Naive Bayes Classifier from scratch.
 
 ### HW2
-PCA, Multinomial Logistic Regression.
+PCA, Multinomial Logistic Regression from scratch.
 
 ### HW3
 Convolutional Neural Networks using PyTorch.
