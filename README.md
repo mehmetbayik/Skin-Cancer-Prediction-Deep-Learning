@@ -10,7 +10,7 @@ Probability Review and Naive Bayes Classifier from scratch.
 PCA, Multinomial Logistic Regression from scratch.
 
 ### HW3
-Convolutional Neural Networks using PyTorch.
+Decoder-Encoder based image reconstruction with CNN using PyTorch.
 
 ## Project
 
