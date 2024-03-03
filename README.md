@@ -1,5 +1,7 @@
 # CS464 Introduction to Machine Learning
-Assignment and project implementations done for CS464 course, Bilkent University, Fall 2023.
+Assignment and project implementations done for CS464 course, Bilkent University, Fall 2023. 
+
+For detailed information, check the project report.
 
 ## Coverage of the repository
 
